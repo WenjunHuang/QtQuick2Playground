@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>helloworld.qml</file>
+        <file>video_list_xml.qml</file>
+        <file>videos.xml</file>
+    </qresource>
+    <qresource prefix="/assets"/>
+</RCC>

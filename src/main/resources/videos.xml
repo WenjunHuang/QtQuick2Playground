@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<videos>
+    <video date="2013-11-19">
+        <attr tag="导演">詹妮弗.李</attr>
+        <attr tag="演员">伊迪娜门泽尔/克里斯汀贝尔</attr>
+        <attr tag="评分">9.2</attr>
+        <attr tag="简介">test</attr>
+        <poster img="http://g3.ykimg.com/0516000052D779CD67583960490A8E1A"/>
+        <page link="http://null"/>
+        <playtimes>12184709</playtimes>
+    </video>
+</videos>
